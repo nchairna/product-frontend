@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:4004/api';
+const API_URL = 'https://product-deploy-backend.onrender.com/';
 
 const AuthService = {
   login: async (username, password) => {
